@@ -18,14 +18,18 @@ Go to bin Folder and download `SandBox.exe`
 
 ### Before
 
-![pngwing com](https://github.com/ArcShahi/Image-to-ASCII/assets/90377780/494c1077-61fe-441a-8e9f-b8edd6586694)
+![image](https://github.com/ArcShahi/Image-to-ASCII/assets/90377780/359953e5-0423-4ced-acac-1d5ac0166108)
+
 
 ### After
 
-![image](https://github.com/ArcShahi/Image-to-ASCII/assets/90377780/f02b6a3a-0cb9-4427-b299-aa7d50114f13)
+![image](https://github.com/ArcShahi/Image-to-ASCII/assets/90377780/53a7281e-53cf-4792-a39b-c0ecfdfa2e2b)
 
 
-** Open the Output file via Notepad ( Recommended ) in Fullscreen and Dont' Forget to Zoom out : `ctrl and - (minus)`
+>[!note]
+>📕
+>** Open the Output file via Notepad ( Recommended ) in Fullscreen and Dont' Forget to Zoom out : `ctrl and - (minus)`**
+
 
 
 
