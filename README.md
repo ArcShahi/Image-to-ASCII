@@ -2,7 +2,7 @@
    Windows Command line Program to Convert Imgage into ASCII Art.
 
    
-Go to bin Folder and download `SandBox.exe`
+Downlaod Executable Here : https://github.com/ArcShahi/Image-to-ASCII/releases
 
 
 ## How to Use ?
@@ -31,6 +31,12 @@ Go to bin Folder and download `SandBox.exe`
 >** Open the Output file via Notepad ( Recommended ) in Fullscreen and Dont' Forget to Zoom out : `ctrl and - (minus)`**
 
 
+
+# Documentation 
+
+Convering Explanation of Source Code.
+
+Will be Added later.
 
 
 
