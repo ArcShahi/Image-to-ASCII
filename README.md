@@ -34,7 +34,7 @@ Downlaod Executable Here : https://github.com/ArcShahi/Image-to-ASCII/releases
 
 # Documentation 
 
-Convering Explanation of Source Code.
+Covering Explanation of Source Code.
 
 Will be Added later.
 
